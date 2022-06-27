@@ -3,9 +3,9 @@
 This project consists of jupyter notebooks containing implementations for transformer-based models applied to **1-day ahead** and **N-days ahead** stock price prediction. The implementation of the baseline models used for comparison against the transformer-based models are also included.
 
 ## Installation
-The libraries required to run the notebooks in this project are _torch, numpy, pandas, matplotlib and pytorch_lightning_.
+The libraries required to run the notebooks in this project are _torch, numpy, pandas, matplotlib, pytorch_lightning and yfinance_.
 
-Run !pip install <library> in the notebook if your kernel does not have any of these libraries.
+Run ```!pip install <library>``` in the notebook if your kernel does not have any of these libraries.
 
 <!-- 
 ## Usage
